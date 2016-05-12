@@ -1,0 +1,122 @@
+@charset "UTF-8";
+/* CSS Document */
+.jumbotron{
+	background-color:#DEB4A4;
+	color: white;
+}
+
+body{
+	background-image:url(img/background1.jpg);
+}
+
+.info{
+	background-color:#DEB4A4;
+	color: white;
+	padding: 10px;
+	margin-top: 10px;
+	border-radius: 5px;
+	height:auto;
+	width: auto;
+}
+
+footer{
+	background-color:#DEB4A4;
+	color: white;
+	margin-top: 10px;
+}
+
+.left{
+	float: left;
+	background-color: #DEB4A4;
+	padding-right: 10px;
+}
+
+.right{
+	margin: 5px;
+}
+
+.bar{
+	width: 100%;
+	background-color: #DEB4A4;
+	border-radius: 10px;
+	margin: 10px;
+	color: white;
+}
+
+.row{
+	background-color: #DEB4A4;
+	color: white;
+}
+
+h2{
+	text-align: center;
+}
+
+.gallery{
+	width: 100%;
+	height: 100%;
+}
+
+#imgone{
+	width:250px;
+	height: 150px;
+	align: left;
+}
+
+#imgtwo{
+	width:250px;
+	height: 150px;
+	align: left;
+}
+
+#imgthree{
+	width:250px;
+	height: 150px;
+	align: left;
+}
+
+#imgfour{
+	width:250px;
+	height: 150px;
+	align: left;
+}
+
+#imgfive{
+	width:250px;
+	height: 150px;
+	align: clear left;
+}
+
+#imgsix{
+	width:250px;
+	height: 150px;
+	align: left;
+}
+
+#imgseven{
+	width:250px;
+	height: 150px;
+	align: left;
+}
+
+#imgeight{
+	width:250px;
+	height: 150px;
+	align: left;
+}
+
+#imgnine{
+	width: 150px;
+	height: 230px;
+	align: clear left;
+}
+
+#imgten{
+	width: 150px;
+	height: 230px;
+	align: left;
+}
+
+.gallery{
+	background-color: #DEB4A4;
+}
